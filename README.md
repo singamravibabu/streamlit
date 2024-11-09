@@ -1,6 +1,6 @@
-# Building Web Apps using Streamlit: Beginner's Guide
+# Building Web Apps using Python: Beginner's Guide
 
-## 1. Getting Started
+## Getting Started
 - **Installation**: First, make sure you have Streamlit installed. You can install it using:
 
 ```bash
