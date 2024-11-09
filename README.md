@@ -1,4 +1,21 @@
-# README
+# Building Web Apps using Streamlit: Beginner's Guide
 
-### Install the following Python libraries using the following command in Command Prompt in Windows
-**C\:\\...>** *pip install numpy pandas matplotlib seaborn streamlit bokeh plotly*
+## 1. Getting Started
+- **Installation**: First, make sure you have Streamlit installed. You can install it using:
+
+```bash
+pip install streamlit
+```
+
+- **Running Your First App**: Create a new Python file called app.py and add this code:
+```python
+import streamlit as st
+
+st.title("Hello, Streamlit!")
+st.write("Welcome to your first Streamlit app.")
+```
+
+Then, run the app using:
+```bash
+streamlit run app.py
+```
